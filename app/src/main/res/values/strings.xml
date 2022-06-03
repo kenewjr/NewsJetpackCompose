@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsJetpackCompose</string>
+    <string name="title_activity_news_compose_custom">NewsComposeCustom</string>
+    <string name="title_activity_detail_layout">DetailLayout</string>
+    <string name="title_activity_staff_layout">StaffLayout</string>
+    <string name="title_activity_detail_staff">DetailStaff</string>
+    <string name="tittle_activity_detail_staff" />
+</resources>
