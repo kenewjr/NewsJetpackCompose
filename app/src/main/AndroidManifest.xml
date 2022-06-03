@@ -47,7 +47,8 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.NewsJetpackCompose">
+            android:theme="@style/Theme.NewsJetpackCompose"
+            tools:ignore="RedundantLabel">
 
         </activity>
     </application>

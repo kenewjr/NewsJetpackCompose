@@ -1,7 +1,5 @@
 package and5.abrar.newsjetpackcompose.viewmodel
 
-import and5.abrar.newsjetpackcompose.NewsRepository
-import and5.abrar.newsjetpackcompose.data.ResponseNewsItem
 import and5.abrar.newsjetpackcompose.data.ResponseStaffItem
 import and5.abrar.newsjetpackcompose.staff.StaffRepository
 import androidx.lifecycle.ViewModel
